@@ -1,0 +1,2 @@
+# Test::Base is supposed to be called from a test with either <DATA> or a spec_file
+use.t
